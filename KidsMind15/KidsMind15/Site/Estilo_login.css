@@ -3,8 +3,8 @@
 
 #fundo {
     position: absolute;
-    width: 1410px;
-    height:798px;
+    width: 1270px;
+    height:900px;
     top:0%;
 }
 
@@ -12,12 +12,12 @@
 
     position:absolute;    
     background:#F0F8FF;
-    width:1422px;
+    width:1280px;
     height:95px;
     right:6%;
     left:0%;
     top:0%;
-    opacity:0.6;
+    opacity:0.8;
     
     
 }
@@ -87,7 +87,7 @@
     position:absolute;
     width:350px;
     height:250px;
-    right:40%;
+    right:36%;
     top:30%;
     opacity:0.8;
   
@@ -117,8 +117,8 @@ input[type="submit"],
 	text-decoration: none;
     font-weight:bold;
     width:90px;
-    left:44.5%;
-    top:55%;
+    left:47%;
+    top:51%;
     height:30px;
     
     

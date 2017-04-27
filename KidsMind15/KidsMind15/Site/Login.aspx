@@ -11,7 +11,7 @@
 <body>
     <form id="form1" runat="server">
 
-          <img src ="fundopostagem.jpg" id="fundo"/>
+          <img src="kids.jpg"id="fundo"/>
         
         <div id="imagem"></div>
 

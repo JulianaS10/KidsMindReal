@@ -91,6 +91,10 @@
     <Compile Include="Site\Usuario.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Site\Estilo_cadastro.css" />
+    <Content Include="Site\Estilo_login.css" />
+    <Content Include="Site\Estilo_noticia.css" />
+    <Content Include="Site\Estilo_postagem.css" />
     <Content Include="web.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
